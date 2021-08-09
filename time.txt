@@ -1,0 +1,4 @@
+9:15 sleep
+10:00 food
+11:00 work
+1:30 study
